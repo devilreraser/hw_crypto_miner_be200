@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BE200.PcbDoc   7/16/2014  2:08:47 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : BE200-Plated.TXT
+ASCII Non-Plated RoundHoles File : BE200-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          3712             5021.80 mm (197.71 Inch)
+T2        1.2mm (47.244mil)        Round          3                7.00 mm (0.28 Inch)
+T3        1.8mm (70.866mil)        Round          12               63.70 mm (2.51 Inch)
+T4        4mm (157.48mil)          Round          11               441.24 mm (17.37 Inch)
+T5        0.9mm (35.433mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            3740             5538.14 mm (218.04 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
